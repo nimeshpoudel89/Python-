@@ -1,0 +1,7 @@
+Decorators
+Genarators 
+Context Manager
+Metaclasses
+Concurrency and Parallelism
+Testing
+Cython (May be Expert Level)

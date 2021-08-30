@@ -1,0 +1,12 @@
+Object Orianted Programming (understanding classes and objects)
+Data structure
+Comprehensions 
+Lambda
+Map and Filter
+*args, **kwargs
+Inheritance
+Advanced Class Behaviors
+PIP
+Environments 
+Making own modules 
+Async IO

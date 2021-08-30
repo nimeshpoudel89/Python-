@@ -1,0 +1,11 @@
+variables 
+conditions 
+chaining conditionals 
+operators
+if else
+loops
+Data structure 
+functions 
+Mutable and immutable Data type
+Common Methods
+File IO
